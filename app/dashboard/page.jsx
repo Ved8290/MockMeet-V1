@@ -1,7 +1,7 @@
 import { UserButton } from "@clerk/nextjs";
 import React from "react";
 import AddNewInterview from "./_components/AddNewInterview.jsx";
-import InterviewList from "./_components/interviewList.jsx";
+import InterviewList from "../dashboard/_components/InterviewList.jsx";
 
 function Dashboard(){
     return(
